@@ -40,5 +40,9 @@
     "printWidth": 120,
     "semi": false,
     "singleQuote": true
+  },
+  "resolutions": {
+    "@ethersproject/bignumber": "5.7.0",
+    "jsbi": "^3.2.5"
   }
 }
